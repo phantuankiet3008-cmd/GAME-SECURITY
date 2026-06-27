@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { Button, Table } from "react-bootstrap";
-
+import { useNavigate } from "react-router-dom";
 const ScoreMinor = () => {
   const [score, setScore] = useState([]);
   const username = sessionStorage.getItem("username");
+  const navigate = useNavigate();
 
   useEffect(() => {
     const myHeaders = new Headers();
@@ -139,7 +140,7 @@ const ScoreMinor = () => {
           </Table>
         </div>
         <Button
-          href="/choose-quiz"
+          onClick={() => navigate("/choose-quiz")}
           style={{
             backgroundColor: "#01d976",
             borderColor: "#01d976",

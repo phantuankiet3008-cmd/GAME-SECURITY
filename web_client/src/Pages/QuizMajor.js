@@ -5,9 +5,11 @@ import { CountdownCircleTimer } from "react-countdown-circle-timer";
 import { Button, Table, Spinner, Modal, ButtonGroup } from "react-bootstrap";
 import { FaRegTimesCircle, FaRegCheckCircle } from "react-icons/fa";
 import { getStoredLanguage, localizeQuestion, uiText } from "../utils/language";
+import { useNavigate } from "react-router-dom";
 const result = [];
 
 function QuizMajor() {
+  const navigate = useNavigate();
   const questions = questionChild.Questions_Adult;
   const [currentIndex, setCurrentIndex] = useState(questions.length - 1);
   //const [lastDirection, setLastDirection] = useState()
@@ -380,7 +382,7 @@ function QuizMajor() {
       </div>
       <div id="details" style={{ marginTop: "2%", display: "none" }}>
         <Button
-          href="/score-major"
+          onClick={() => navigate("/score-major")}
           style={{
             backgroundColor: "#01d976",
             borderColor: "#01d976",
