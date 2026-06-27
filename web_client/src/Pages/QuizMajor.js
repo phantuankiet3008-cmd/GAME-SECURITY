@@ -16,7 +16,7 @@ function QuizMajor() {
   const currentIndexRef = useRef(currentIndex);
   const username = sessionStorage.getItem("username");
   const [start, setStart] = useState(false);
-  const [winTime, setWinTime] = useState(30);
+  const [winTime, setWinTime] = useState(60);
   const [score, setScore] = useState(0);
   const [saveAnswer, setSaveAnswer] = useState([]);
   const [language, setLanguage] = useState(getStoredLanguage);
