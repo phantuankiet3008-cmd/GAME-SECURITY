@@ -123,7 +123,7 @@ function QuizMajor() {
       checkLoose.style.display = "block";
       result.push("❌");
     }
-    if (index === 0 || timer < 3) {
+    if (index === 0 || timer < 6) {
       while (result.length < questions.length) {
         result.push("🕒");
       }
