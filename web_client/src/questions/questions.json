@@ -1,0 +1,676 @@
+{
+    "Questions_Adult": [
+        {
+            "title": "Is this email safe?",
+            "image": "./img/phishing1.png",
+            "left": "Safe",
+            "right": "Not safe",
+            "up": "No answer",
+            "down": "No answer",
+            "good_answer": "right",
+            "details": "This email is sent by a strange address, a government institution will never have a gmail, hotmail or outlook address.",
+            "vi": {
+                "title": "Email này có an toàn không?",
+                "left": "An toàn",
+                "right": "Không an toàn",
+                "up": "Không trả lời",
+                "down": "Không trả lời",
+                "details": "Email này được gửi từ một địa chỉ lạ. Một cơ quan nhà nước sẽ không dùng địa chỉ gmail, hotmail hoặc outlook."
+            }
+        },
+        {
+            "title": "What is the simplest way to stop brute-force cyberattacks dead in their tracks?",
+            "image": "./img/password1.png",
+            "left": "Shred all paperwork containing sensitive information",
+            "right": "Add a deadbolt lock to all entryways",
+            "up": "Add a few unique characters to any password or PIN",
+            "down": "No answer",
+            "good_answer": "up",
+            "details": "",
+            "vi": {
+                "title": "Cách đơn giản nhất để chặn tấn công dò mật khẩu brute-force là gì?",
+                "left": "Hủy toàn bộ giấy tờ có thông tin nhạy cảm",
+                "right": "Lắp thêm khóa chốt cho mọi lối vào",
+                "up": "Thêm vài ký tự đặc biệt, duy nhất vào mật khẩu hoặc mã PIN",
+                "down": "Không trả lời",
+                "details": ""
+            }
+        },
+        {
+            "title": "What is most valuable to companies looking to sell you something?",
+            "image": "./img/privacy3.jpeg",
+            "left": "Your phone number",
+            "right": "Your email address",
+            "up": "No answer",
+            "down": "No answer",
+            "good_answer": "left",
+            "details": "Indeed, your phone number is the most likely not to change during years",
+            "vi": {
+                "title": "Điều gì có giá trị nhất với các công ty muốn bán hàng cho bạn?",
+                "left": "Số điện thoại của bạn",
+                "right": "Địa chỉ email của bạn",
+                "up": "Không trả lời",
+                "down": "Không trả lời",
+                "details": "Số điện thoại thường ít thay đổi trong nhiều năm, nên rất có giá trị."
+            }
+        },
+        {
+            "title": "What is the best way to keep employees from falling for phishing scams?",
+            "image": "./img/phishing2.jpeg",
+            "left": "Email filters that block suspicious attachments",
+            "right": "Cybersecurity awareness training",
+            "up": "Pop-up blockers",
+            "down": "Never open your emailbox",
+            "good_answer": "right",
+            "details": "",
+            "vi": {
+                "title": "Cách tốt nhất để giúp nhân viên không mắc bẫy phishing là gì?",
+                "left": "Bộ lọc email chặn tệp đính kèm đáng ngờ",
+                "right": "Đào tạo nhận thức an toàn thông tin",
+                "up": "Trình chặn cửa sổ bật lên",
+                "down": "Không bao giờ mở hộp thư",
+                "details": ""
+            }
+        },
+        {
+            "title": "Which of the following cryptocurrency statements is false?",
+            "image": "./img/crypto1.png",
+            "left": "Blockchain is the digital ledger that records all cryptocurrency transactions",
+            "right": "Each new Bitcoin mined requires slightly more energy than the previous one",
+            "up": "Cryptocurrency is 100 times more secure than traditional currency",
+            "down": "Cryptocurrency assures you of wealth",
+            "good_answer": "up",
+            "details": "",
+            "vi": {
+                "title": "Phát biểu nào sau đây về tiền mã hóa là sai?",
+                "left": "Blockchain là sổ cái số ghi lại mọi giao dịch tiền mã hóa",
+                "right": "Mỗi Bitcoin mới được đào cần nhiều năng lượng hơn một chút so với Bitcoin trước đó",
+                "up": "Tiền mã hóa an toàn hơn tiền truyền thống 100 lần",
+                "down": "Tiền mã hóa bảo đảm bạn sẽ giàu có",
+                "details": ""
+            }
+        },
+        {
+            "title": "An application asks for contacts, microphone, SMS ... access",
+            "image": "./img/mobile1.jpg",
+            "left": "Never bother with this, hit OK",
+            "right": "Grant time-to-time permissions for applications",
+            "up": "Uninstall this application",
+            "down": "No answer",
+            "good_answer": "right",
+            "details": "In general, applications ask for user permissions in order to provide them with services. However, there are applications that will ask permission to all sorts of data that might not seem necessary for the application to work. Sometimes, the reason is to collect sensitive information through these permissions and subsequently sell them to spammers or scammers. The user should always be cautious, especially if he/she downloads applications from untrusted or dubious sources.",
+            "vi": {
+                "title": "Một ứng dụng yêu cầu quyền truy cập danh bạ, micro, SMS...",
+                "left": "Không cần quan tâm, cứ bấm OK",
+                "right": "Chỉ cấp quyền khi cần và theo từng lần",
+                "up": "Gỡ cài đặt ứng dụng này",
+                "down": "Không trả lời",
+                "details": "Ứng dụng thường xin quyền để cung cấp dịch vụ, nhưng có ứng dụng xin những quyền không cần thiết để thu thập dữ liệu nhạy cảm và bán cho bên xấu. Luôn cẩn trọng, nhất là khi tải ứng dụng từ nguồn không đáng tin."
+            }
+        },
+        {
+            "title": "An malware that's blocks your computer unless you pay is called",
+            "image": "./img/malware1.jpeg",
+            "left": "A ransomware",
+            "right": "A trojan",
+            "up": "A bot",
+            "down": "A Spyware",
+            "good_answer": "left",
+            "details": "Ransomware attacks encrypt a device's data and holding it for ransom until the hacker is paid to release it. If the ransom isn't paid by a deadline, the hacker will threaten to delete the data—or possible expose it. Paying up may not help; often, victims lose their data even if they pay the fee.",
+            "vi": {
+                "title": "Phần mềm độc hại khóa máy tính của bạn cho đến khi trả tiền được gọi là gì?",
+                "left": "Ransomware",
+                "right": "Trojan",
+                "up": "Bot",
+                "down": "Spyware",
+                "details": "Ransomware mã hóa dữ liệu và đòi tiền chuộc để mở khóa. Trả tiền không bảo đảm lấy lại dữ liệu."
+            }
+        },
+        {
+            "title": "What exactly is a Botnet?",
+            "image": "./img/malware1.jpeg",
+            "left": "Phishing",
+            "right": "POS attack",
+            "up": "DoS attack",
+            "down": "No answer",
+            "good_answer": "up",
+            "details": "If the requests come from multiple sources, it is a DDoS (Distributed-Denial-of-Service) attack.",
+            "vi": {
+                "title": "Botnet chính xác là gì?",
+                "left": "Phishing",
+                "right": "Tấn công POS",
+                "up": "Tấn công DoS",
+                "down": "Không trả lời",
+                "details": "Nếu yêu cầu đến từ nhiều nguồn, đó là tấn công DDoS."
+            }
+        },
+        {
+            "title": "What is the type of attack designed to hinder the normal operation of a website",
+            "image": "./img/network1.jpeg",
+            "left": "Phishing",
+            "right": "POS attack",
+            "up": "DoS attack",
+            "down": "No answer",
+            "good_answer": "up",
+            "details": "If the requests come from multiple sources, it is a DDoS (Distributed-Denial-of-Service) attack.",
+            "vi": {
+                "title": "Kiểu tấn công nào được thiết kế để làm gián đoạn hoạt động bình thường của website?",
+                "left": "Phishing",
+                "right": "Tấn công POS",
+                "up": "Tấn công DoS",
+                "down": "Không trả lời",
+                "details": "Nếu yêu cầu đến từ nhiều nguồn, đó là tấn công DDoS."
+            }
+        },
+        {
+            "title": "To protect your communications over public networks you should",
+            "image": "./img/network1.jpeg",
+            "left": "Use a Virtual Private Network (VPN)",
+            "right": "Find the strongest WiFi signal near you",
+            "up": "Turn off your file sharing",
+            "down": "Prefer sending email than using a well-known service",
+            "good_answer": "left",
+            "details": "A VPN allows a company to leverage Internet resources, enabling employees to easily collaborate from various locations, including home.",
+            "vi": {
+                "title": "Để bảo vệ liên lạc trên mạng công cộng, bạn nên",
+                "left": "Dùng mạng riêng ảo (VPN)",
+                "right": "Tìm tín hiệu Wi-Fi mạnh nhất gần bạn",
+                "up": "Tắt chia sẻ tệp",
+                "down": "Ưu tiên gửi email thay vì dùng dịch vụ uy tín",
+                "details": "VPN giúp bảo vệ kết nối và hỗ trợ làm việc từ nhiều địa điểm khác nhau."
+            }
+        },
+        {
+            "title": "Which of the following statements is true about GDPR?",
+            "image": "./img/gdpr1.jpeg",
+            "left": "It only applies to companies located in Europe.",
+            "right": "GDPR is closely related to IT security.",
+            "up": "Failing to comply with GDPR only damages a company's reputation",
+            "down": "No answer",
+            "good_answer": "right",
+            "details": "A VPN allows a company to leverage Internet resources, enabling employees to easily collaborate from various locations, including home.",
+            "vi": {
+                "title": "Phát biểu nào sau đây đúng về GDPR?",
+                "left": "Chỉ áp dụng cho công ty đặt tại châu Âu.",
+                "right": "GDPR liên quan chặt chẽ đến bảo mật CNTT.",
+                "up": "Không tuân thủ GDPR chỉ làm ảnh hưởng danh tiếng công ty",
+                "down": "Không trả lời",
+                "details": "GDPR có liên quan đến cách tổ chức bảo vệ và xử lý dữ liệu cá nhân."
+            }
+        },
+        {
+            "title": "What is the most suitable password?",
+            "image": "./img/password2.jpeg",
+            "left": "123456",
+            "right": "qwerty123",
+            "up": "1q2w3e",
+            "down": "MfMa6d@tbc&ich£10",
+            "good_answer": "down",
+            "details": "When it comes to passwords, think 'length over complexity'. The longer the password, the stronger it is. More characters = more security.",
+            "vi": {
+                "title": "Mật khẩu nào phù hợp nhất?",
+                "left": "123456",
+                "right": "qwerty123",
+                "up": "1q2w3e",
+                "down": "MfMa6d@tbc&ich£10",
+                "details": "Với mật khẩu, hãy ưu tiên độ dài. Càng nhiều ký tự thì càng an toàn hơn."
+            }
+        },
+        {
+            "title": "Which one of the following is MOST likely to be a hoax?",
+            "image": "./img/email.jpeg",
+            "left": "An email from a friend you have not seen recently.",
+            "right": "An email with an attachment sent by a colleague using their personal email address.",
+            "up": "An email asking you to go to a website for a free computer scan.",
+            "down": "An email advertisement from a local shop you subscribe to.",
+            "good_answer": "up",
+            "details": "",
+            "vi": {
+                "title": "Điều nào sau đây có khả năng cao là trò lừa đảo?",
+                "left": "Email từ một người bạn lâu rồi bạn chưa gặp.",
+                "right": "Email có tệp đính kèm do đồng nghiệp gửi bằng email cá nhân.",
+                "up": "Email yêu cầu bạn vào website để quét máy tính miễn phí.",
+                "down": "Email quảng cáo từ cửa hàng địa phương bạn đã đăng ký.",
+                "details": ""
+            }
+        },
+        {
+            "title": "Which one of the following should be used to change your password?",
+            "image": "./img/window.jpeg",
+            "left": "Internet Explorer.",
+            "right": "Control Panel.",
+            "up": "Anti-virus software.",
+            "down": "Windows Firewall.",
+            "good_answer": "left",
+            "details": "",
+            "vi": {
+                "title": "Công cụ nào sau đây nên dùng để đổi mật khẩu?",
+                "left": "Internet Explorer.",
+                "right": "Control Panel.",
+                "up": "Phần mềm diệt virus.",
+                "down": "Windows Firewall.",
+                "details": ""
+            }
+        },
+        {
+            "title": "If You receive this email, what's your next step?",
+            "image": "./img/email.jpeg",
+            "left": "Ignore the email and delete it.",
+            "right": "Follow the link and reset your password.",
+            "up": "Reset your password manually.",
+            "down": "Ask a colleague.",
+            "good_answer": "left",
+            "details": "This is a phishing email. If you are using Microsoft, a password reminder will alert your desktop, not your email address. Always use caution when dealing with emails.",
+            "vi": {
+                "title": "Nếu nhận được email này, bước tiếp theo của bạn là gì?",
+                "left": "Bỏ qua email và xóa nó.",
+                "right": "Theo liên kết và đặt lại mật khẩu.",
+                "up": "Tự đặt lại mật khẩu theo cách thủ công.",
+                "down": "Hỏi đồng nghiệp.",
+                "details": "Đây là email phishing. Luôn cẩn trọng khi xử lý email và không bấm liên kết đáng ngờ."
+            }
+        },
+        {
+            "title": "You're just leaving your office for the day, when you stumble upon a USB stick on the floor. What do you do?",
+            "image": "./img/usb.jpeg",
+            "left": "Take it home and use it.",
+            "right": "Hand it into reception for them to deal with.",
+            "good_answer": "left",
+            "details": "An unidentified hard drive could cause problems. It is best to hand it in to reception so they can discover if anyone has lost it initially.",
+            "vi": {
+                "title": "Bạn rời văn phòng và thấy một USB rơi trên sàn. Bạn sẽ làm gì?",
+                "left": "Mang về nhà và sử dụng.",
+                "right": "Giao cho lễ tân xử lý.",
+                "details": "Ổ lưu trữ không rõ nguồn gốc có thể gây rủi ro. Tốt nhất là giao lại để kiểm tra chủ sở hữu."
+            }
+        },
+        {
+            "title": "Your computer has just been infected with Ransomware and the hacker is demanding £1,000 before releasing it. What do you do?",
+            "image": "./img/ransomware.jpeg",
+            "left": "Send an email to the IT guy in the office.",
+            "right": "Try your best to get rid of it before anyone finds out",
+            "up": "Pay the ransom. You need your files back!",
+            "down": "Disconnect your computer from the network.",
+            "good_answer": "down",
+            "details": "",
+            "vi": {
+                "title": "Máy tính của bạn vừa nhiễm ransomware và hacker đòi 1.000 bảng để mở khóa. Bạn làm gì?",
+                "left": "Gửi email cho nhân viên IT trong văn phòng.",
+                "right": "Tự cố gắng xử lý trước khi ai phát hiện",
+                "up": "Trả tiền chuộc vì bạn cần lấy lại tệp!",
+                "down": "Ngắt máy tính khỏi mạng.",
+                "details": ""
+            }
+        },
+        {
+            "title": "Your computer is now clear of Ransomware and you're ready to start working again. What will you do first?",
+            "image": "./img/ransomware.jpeg",
+            "left": "Backup the data as soon as you can.",
+            "right": "Continue working as normal.",
+            "up": "Reinstall the USB stick, as you still don't know who it belongs to.",
+            "down": "Nothing, it's been dealt with.",
+            "good_answer": "left",
+            "details": "",
+            "vi": {
+                "title": "Máy tính đã sạch ransomware và bạn sẵn sàng làm việc lại. Bạn sẽ làm gì trước tiên?",
+                "left": "Sao lưu dữ liệu càng sớm càng tốt.",
+                "right": "Tiếp tục làm việc như bình thường.",
+                "up": "Cắm lại USB vì vẫn chưa biết của ai.",
+                "down": "Không làm gì, mọi chuyện đã xử lý xong.",
+                "details": ""
+            }
+        },
+        {
+            "title": "On your way home, you've noticed you've left your mobile on the train? What do you do?",
+            "image": "./img/telephone.jpeg",
+            "left": "Call the train line to find out if anyone has handed it in.",
+            "right": "Call your phone to make arrangements to meet the person who found it.",
+            "up": "Remotely disable it as soon as possible.",
+            "down": "Call the phone network to advise them.",
+            "good_answer": "right",
+            "details": "Disabling your mobile remotely is a useful application to have. You are able to protect the data, track your phone and delete the data if required.",
+            "vi": {
+                "title": "Trên đường về nhà, bạn phát hiện để quên điện thoại trên tàu. Bạn làm gì?",
+                "left": "Gọi hãng tàu để hỏi có ai giao lại không.",
+                "right": "Gọi vào điện thoại để hẹn gặp người nhặt được.",
+                "up": "Vô hiệu hóa từ xa càng sớm càng tốt.",
+                "down": "Gọi nhà mạng để thông báo.",
+                "details": "Vô hiệu hóa điện thoại từ xa giúp bảo vệ dữ liệu, định vị thiết bị và xóa dữ liệu khi cần."
+            }
+        },
+        {
+            "title": "You decide to relax and purchase some concert tickets online. The website doesn't seem to be working as you cannot get through. This is commonly the result of a -",
+            "image": "./img/ticket.jpeg",
+            "left": "Malware Attack.",
+            "right": "DDoS Attack.",
+            "up": "Spear-Phising Attack.",
+            "down": "Ransomware Attack.",
+            "good_answer": "down",
+            "details": "",
+            "vi": {
+                "title": "Bạn mua vé hòa nhạc online nhưng website không truy cập được. Đây thường là kết quả của",
+                "left": "Tấn công malware.",
+                "right": "Tấn công DDoS.",
+                "up": "Tấn công spear-phishing.",
+                "down": "Tấn công ransomware.",
+                "details": ""
+            }
+        }
+    ],
+    "Questions_Child": [
+        {
+            "title": "By inserting an abandonned USB drive, I risk",
+            "image": "./img/usb1.jpeg",
+            "left": "Nothing",
+            "right": "Having my passwords stolen instantly",
+            "up": "To be fined",
+            "down": "Having my pc components disfunctionning",
+            "good_answer": "right",
+            "details": "Inserting an unknown flash drive is always a bit risky because some of them could be USB killer that will overcharge your pc in electricity. If your OS (like Windows) is up to date, you would normaly not have your password stolen until you do not open anything found on the USB device.",
+            "vi": {
+                "title": "Khi cắm một USB bị bỏ quên, tôi có nguy cơ",
+                "left": "Không có gì",
+                "right": "Bị đánh cắp mật khẩu ngay lập tức",
+                "up": "Bị phạt tiền",
+                "down": "Làm linh kiện máy tính hoạt động sai",
+                "details": "Cắm USB không rõ nguồn gốc luôn có rủi ro. Một số thiết bị có thể gây hỏng phần cứng hoặc chứa mã độc nếu bạn mở tệp bên trong."
+            }
+        },
+        {
+            "title": "What is the weakest link in cybersecurity?",
+            "image": "./img/cybersecurity1.jpeg",
+            "left": "Weak encryption",
+            "right": "Humans",
+            "up": "Short passwords",
+            "down": "Informative systems",
+            "good_answer": "right",
+            "details": "",
+            "vi": {
+                "title": "Mắt xích yếu nhất trong an ninh mạng là gì?",
+                "left": "Mã hóa yếu",
+                "right": "Con người",
+                "up": "Mật khẩu ngắn",
+                "down": "Hệ thống thông tin",
+                "details": ""
+            }
+        },
+        {
+            "title": "What’s the best way to secure a weak password like “monkey123”?",
+            "image": "./img/password1.png",
+            "left": "Add an uppercase numeral and a special character, such as $",
+            "right": "Don’t reuse it anywhere else or share it with anyone",
+            "up": "Repeat it twice",
+            "down": "Enable two-factor authentication",
+            "good_answer": "down",
+            "details": "",
+            "vi": {
+                "title": "Cách tốt nhất để bảo vệ mật khẩu yếu như “monkey123” là gì?",
+                "left": "Thêm chữ hoa, số và ký tự đặc biệt như $",
+                "right": "Không dùng lại ở nơi khác hoặc chia sẻ với ai",
+                "up": "Lặp lại mật khẩu hai lần",
+                "down": "Bật xác thực hai yếu tố",
+                "details": ""
+            }
+        },
+        {
+            "title": "The best way to minimize your digital footprint is to",
+            "image": "./img/privacy1.jpeg",
+            "left": "Post less on social media",
+            "right": "Take fewer photos with your smartphone",
+            "up": "Travel less with your smartphone",
+            "down": "Factory reset your phone",
+            "good_answer": "left",
+            "details": "",
+            "vi": {
+                "title": "Cách tốt nhất để giảm dấu vết số của bạn là",
+                "left": "Đăng ít hơn trên mạng xã hội",
+                "right": "Chụp ít ảnh hơn bằng điện thoại",
+                "up": "Ít đi lại cùng điện thoại hơn",
+                "down": "Khôi phục cài đặt gốc điện thoại",
+                "details": ""
+            }
+        },
+        {
+            "title": "When is it ok to reuse a password?",
+            "image": "./img/password1.png",
+            "left": "When you are logging into social media accounts",
+            "right": "When it is too hard to remember a long password",
+            "up": "Always if and only it is a strong one",
+            "down": "Never",
+            "good_answer": "down",
+            "details": "You should never use a password many times",
+            "vi": {
+                "title": "Khi nào có thể dùng lại mật khẩu?",
+                "left": "Khi đăng nhập tài khoản mạng xã hội",
+                "right": "Khi mật khẩu dài quá khó nhớ",
+                "up": "Luôn được nếu mật khẩu đủ mạnh",
+                "down": "Không bao giờ",
+                "details": "Bạn không nên dùng cùng một mật khẩu ở nhiều nơi."
+            }
+        },
+        {
+            "title": "Which ride-sharing service collects the least amount of your data?",
+            "image": "./img/privacy2.png",
+            "left": "Uber",
+            "right": "Bolt",
+            "up": "Public taxi service",
+            "down": "Blablacar",
+            "good_answer": "up",
+            "details": "",
+            "vi": {
+                "title": "Dịch vụ gọi xe nào thu thập ít dữ liệu của bạn nhất?",
+                "left": "Uber",
+                "right": "Bolt",
+                "up": "Taxi công cộng",
+                "down": "Blablacar",
+                "details": ""
+            }
+        },
+        {
+            "title": "Which one of these things is most effective for maintaining your digital privacy?",
+            "image": "./img/privacy1.jpeg",
+            "left": "Not sharing personal information on social media",
+            "right": "Covering your computer’s front-facing camera",
+            "up": "Unsubscribing from all spam emails",
+            "down": "Never open your emailbox",
+            "good_answer": "left",
+            "details": "",
+            "vi": {
+                "title": "Điều nào hiệu quả nhất để duy trì quyền riêng tư số?",
+                "left": "Không chia sẻ thông tin cá nhân trên mạng xã hội",
+                "right": "Che camera trước của máy tính",
+                "up": "Hủy đăng ký mọi email spam",
+                "down": "Không bao giờ mở hộp thư",
+                "details": ""
+            }
+        },
+        {
+            "title": "Which of the following IS a smart way to test a suspicious link?",
+            "image": "./img/phishing2.jpeg",
+            "left": "Use a free online tool to expand a shortened link and view the actual destination URL",
+            "right": "Use a link scanner tool",
+            "up": "Both answers: 1 and 2",
+            "down": "Click on it",
+            "good_answer": "up",
+            "details": "There are safe ways to test a link without actually clicking on it. One way is to know the red flags of a malicious link, so that you are able to spot obvious attempts. But you can also hover over it, use a link expanding tool, or a link scanner",
+            "vi": {
+                "title": "Cách thông minh để kiểm tra một liên kết đáng ngờ là gì?",
+                "left": "Dùng công cụ online để mở rộng link rút gọn và xem URL thật",
+                "right": "Dùng công cụ quét liên kết",
+                "up": "Cả đáp án 1 và 2",
+                "down": "Bấm vào liên kết",
+                "details": "Bạn có thể kiểm tra link mà không cần bấm trực tiếp, ví dụ mở rộng link rút gọn hoặc dùng công cụ quét liên kết."
+            }
+        },
+        {
+            "title": "Which website URL is legitimate?",
+            "image": "./img/site1.png",
+            "left": "https://www.payapl.com/us/webapps/mpp/requesting-payments",
+            "right": "http://www.paypay.com.home/",
+            "up": "https://www.pay.pal.com/",
+            "down": "https://www.paypal.com/us/home",
+            "good_answer": "down",
+            "details": "Some notable differences in the incorrect URL's are: PayPal will always use “https“ because they are collecting personal information and extra security is required; anything before the forward slash is where you'll be taken, so any extra characters before the / are suspect; slight misspellings or extra characters (such as “payapl“ and “pay.pal“) are also red flags that you are being directed to a malicious site. They can be difficult to spot, so be sure to carefully check URL's.",
+            "vi": {
+                "title": "URL website nào là hợp lệ?",
+                "left": "https://www.payapl.com/us/webapps/mpp/requesting-payments",
+                "right": "http://www.paypay.com.home/",
+                "up": "https://www.pay.pal.com/",
+                "down": "https://www.paypal.com/us/home",
+                "details": "Hãy kiểm tra kỹ tên miền, HTTPS và các lỗi chính tả nhỏ trong URL vì đó có thể là dấu hiệu website giả mạo."
+            }
+        },
+        {
+            "title": "Using two-factor authentication is not an effective tool for securing your accounts",
+            "image": "./img/2fa1.jpeg",
+            "left": "True",
+            "right": "False",
+            "up": "No answer",
+            "down": "No answer",
+            "good_answer": "right",
+            "details": "Two-factor authentication is an easy and very effective way to secure your accounts against unauthorized access. With 2FA in place, you can prevent a hacker from accessing your account even if they have cracked or stolen your password. It works by requiring a second piece of information be input - usually a pin or a code - when a login attempt is made from an unrecognized device.",
+            "vi": {
+                "title": "Xác thực hai yếu tố không phải là công cụ hiệu quả để bảo vệ tài khoản",
+                "left": "Đúng",
+                "right": "Sai",
+                "up": "Không trả lời",
+                "down": "Không trả lời",
+                "details": "Xác thực hai yếu tố giúp ngăn truy cập trái phép ngay cả khi mật khẩu bị lộ."
+            }
+        },
+        {
+            "title": "I have anti-virus protection, so when it comes to network security, I'm all set",
+            "image": "./img/antivirus1.jpeg",
+            "left": "True",
+            "right": "False",
+            "up": "No answer",
+            "down": "No answer",
+            "good_answer": "right",
+            "details": "Anti-virus software alone is no longer enough. Network security today requires a multi-layered approach that includes firewalls, patch management, end-point protection, admin controls, end-user education and data backups management.",
+            "vi": {
+                "title": "Tôi đã có phần mềm diệt virus, vậy bảo mật mạng như thế là đủ",
+                "left": "Đúng",
+                "right": "Sai",
+                "up": "Không trả lời",
+                "down": "Không trả lời",
+                "details": "Chỉ phần mềm diệt virus là chưa đủ. Bảo mật mạng cần nhiều lớp như tường lửa, cập nhật bản vá, quản trị quyền, đào tạo người dùng và sao lưu dữ liệu."
+            }
+        },
+        {
+            "title": "On your mobile, what source should you use to install the an application?",
+            "image": "./img/mobile1.jpg",
+            "left": "First result of your research is the best",
+            "right": "Ask a fried to install it",
+            "up": "All sources are the same",
+            "down": "Use the official application store",
+            "good_answer": "down",
+            "details": "When it comes to mobile applications, it is crucial to be on alert. Always use the trusted application store offered by the device's manufacturer, and never download apps from untrusted, third-party sources. Sometimes applications downloaded directly from the official stores might contain malicious code, thus additional protection - like antivirus solutions - are also recommended.",
+            "vi": {
+                "title": "Trên điện thoại, bạn nên cài ứng dụng từ nguồn nào?",
+                "left": "Kết quả tìm kiếm đầu tiên là tốt nhất",
+                "right": "Nhờ một người bạn cài giúp",
+                "up": "Nguồn nào cũng như nhau",
+                "down": "Kho ứng dụng chính thức",
+                "details": "Luôn dùng kho ứng dụng đáng tin cậy của nhà sản xuất thiết bị và tránh tải ứng dụng từ nguồn bên thứ ba không rõ ràng."
+            }
+        },
+        {
+            "title": "If an email shows my bank's official header and logo, it is reliable. True or false?",
+            "image": "./img/bank.jpeg",
+            "left": "True.",
+            "right": "False.",
+            "good_answer": "right",
+            "details": "Scammers can perfectly reproduce the graphic look of your bank's emails, and even a carbon copy of its website.",
+            "vi": {
+                "title": "Nếu email có tiêu đề và logo chính thức của ngân hàng thì đáng tin. Đúng hay sai?",
+                "left": "Đúng.",
+                "right": "Sai.",
+                "details": "Kẻ lừa đảo có thể sao chép giao diện email và website của ngân hàng rất giống thật."
+            }
+        },
+        {
+            "title": "In Bluetooth mode, I put my data at risk. True or false?",
+            "image": "./img/bluetooth.jpeg",
+            "left": "True.",
+            "right": "False.",
+            "good_answer": "left",
+            "details": "The Bluetooth network is often responsible for security breaches that put your data at risk. It's best to turn it off when you're not using it.",
+            "vi": {
+                "title": "Bật Bluetooth có thể khiến dữ liệu của tôi gặp rủi ro. Đúng hay sai?",
+                "left": "Đúng.",
+                "right": "Sai.",
+                "details": "Bluetooth có thể là nguồn rủi ro bảo mật. Tốt nhất hãy tắt khi không sử dụng."
+            }
+        },
+        {
+            "title": "Downloading an e-mail attachment can allow someone to take control of my computer. True or false?",
+            "image": "./img/email.jpeg",
+            "left": "True.",
+            "right": "False.",
+            "good_answer": "left",
+            "details": "By downloading the attachment, you can start installing malware that will give hackers access to your computer.",
+            "vi": {
+                "title": "Tải tệp đính kèm email có thể cho phép người khác kiểm soát máy tính của tôi. Đúng hay sai?",
+                "left": "Đúng.",
+                "right": "Sai.",
+                "details": "Tệp đính kèm có thể cài mã độc và cho kẻ tấn công truy cập máy tính."
+            }
+        },
+        {
+            "title": "A virus can be installed on my computer via a public or free wireless network. True or false?",
+            "image": "./img/virus.jpeg",
+            "left": "True.",
+            "right": "False.",
+            "good_answer": "left",
+            "details": "This is why it is best to avoid connecting to unsecured networks.",
+            "vi": {
+                "title": "Virus có thể được cài vào máy tính qua mạng Wi-Fi công cộng hoặc miễn phí. Đúng hay sai?",
+                "left": "Đúng.",
+                "right": "Sai.",
+                "details": "Vì vậy nên hạn chế kết nối vào mạng không bảo mật."
+            }
+        },
+        {
+            "title": "When I travel, I am more likely to be a victim of hacking. True or false?",
+            "image": "./img/travel.jpeg",
+            "left": "True.",
+            "right": "False.",
+            "good_answer": "left",
+            "details": "When we travel, our habits are shaken up. We connect more easily to unsecured networks, or we leave our computer unattended in our hotel room.",
+            "vi": {
+                "title": "Khi đi du lịch, tôi dễ trở thành nạn nhân bị hack hơn. Đúng hay sai?",
+                "left": "Đúng.",
+                "right": "Sai.",
+                "details": "Khi đi xa, thói quen thay đổi: ta dễ kết nối mạng không an toàn hoặc để thiết bị ngoài tầm kiểm soát."
+            }
+        },
+        {
+            "title": "In the address bar of my search engine, a URL beginning with 'https://' means that the site is secure. True or false?",
+            "image": "./img/search.jpeg",
+            "left": "True.",
+            "right": "False.",
+            "good_answer": "left",
+            "details": "When a site is secure, the URL begins with the word 'https://'. The absence of an 's' means that the site is not secure.",
+            "vi": {
+                "title": "Trong thanh địa chỉ, URL bắt đầu bằng “https://” nghĩa là website an toàn. Đúng hay sai?",
+                "left": "Đúng.",
+                "right": "Sai.",
+                "details": "Website bảo mật dùng “https://”. Thiếu chữ “s” thường cho thấy kết nối không được bảo mật."
+            }
+        },
+        {
+            "title": "If an email shows my bank's name in the sender field, it's official. True or false?",
+            "image": "./img/bank.jpeg",
+            "left": "True.",
+            "right": "False.",
+            "good_answer": "right",
+            "details": "Only by hovering or clicking on the sender's name will you be able to view the email address and verify if it is official.",
+            "vi": {
+                "title": "Nếu email hiển thị tên ngân hàng ở người gửi thì đó là email chính thức. Đúng hay sai?",
+                "left": "Đúng.",
+                "right": "Sai.",
+                "details": "Bạn cần kiểm tra địa chỉ email thật của người gửi để xác minh."
+            }
+        }
+    ]
+}
