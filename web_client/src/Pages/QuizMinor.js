@@ -16,7 +16,7 @@ function QuizMinor() {
   const currentIndexRef = useRef(currentIndex);
   const username = sessionStorage.getItem("username");
   const [start, setStart] = useState(false);
-  const [winTime, setWinTime] = useState(45);
+  const [winTime, setWinTime] = useState(30);
   const [score, setScore] = useState(0);
   const [saveAnswer, setSaveAnswer] = useState([]);
   const [language, setLanguage] = useState(getStoredLanguage);
@@ -123,7 +123,7 @@ function QuizMinor() {
       checkLoose.style.display = "block";
       result.push("❌");
     }
-    if (index === 0 || timer < 5) {
+    if (index === 0 || timer < 3) {
       while (result.length < questions.length) {
         result.push("🕒");
       }
